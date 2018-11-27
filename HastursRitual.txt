@@ -13,4 +13,4 @@ Developers:
 
 Description:
 
-  This project in development (as of Nov. 2018) is a small RPG based on top-down tile graphics (à la Ultima) which has some adventure elements to it.
+  This project in development (as of Nov. 2018) is a small RPG, based on top-down tile graphics (à la Ultima), which has some adventure elements to it.
