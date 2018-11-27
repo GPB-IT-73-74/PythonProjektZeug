@@ -1,0 +1,17 @@
+School Project, November 2018
+ HASTUR'S RITUAL --- a role playing game
+ 
+ GitHub Repository:  https://github.com/Muitai/ProjektGPB1
+           License:  https://github.com/Muitai/ProjektGPB1/LICENSE
+
+Developers:
+ 
+ - Alexander Amadeus Schnapka
+ - Stephan Luckow
+ - David Skibitzki
+ - Daniel Augustinovic
+ - Martin Wirth
+
+Description:
+
+  This project in development (as of Nov. 2018) is a small RPG based on top-down tile graphics (à la Ultima), which has some adventure elements to it.
