@@ -2,7 +2,7 @@ School project, November 2018
 
  Hastur's Ritual --- a role playing game
  
- Git repository:  https://github.com/Muitai/ProjektGPB1
+ GitHub repository:  https://github.com/Muitai/ProjektGPB1
 
 Developers:
 
