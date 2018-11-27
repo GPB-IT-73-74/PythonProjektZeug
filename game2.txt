@@ -1,6 +1,6 @@
 Members:
 
-Roman Friske 
+Roman Friske
 polaris202
 https://github.com/polaris202
 
@@ -19,6 +19,7 @@ https://github.com/florianjanke
 
 
 Project: Game2
+Link to master repo: https://github.com/PsyChoZen86/game2
 
 Description:
 
