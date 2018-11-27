@@ -5,8 +5,8 @@ School Project, November 2018
            License:  https://github.com/Muitai/ProjektGPB1/LICENSE
 
 Developers:
-
- - Stephan Lukow
+ - Alexander Amadeus Schnapka
+ - Stephan Luckow
  - David Skibitzki
  - Daniel Augustinovic
  - Martin Wirth
