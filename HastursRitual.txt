@@ -14,4 +14,6 @@ Developers:
 
 Description:
 
-  This project in development (as of Nov. 2018) is a small RPG based on top-down tile graphics (à la Ultima). It features smooth player and monster movements on a non-scrolling map made of simple tile graphics. The combat system is hack&slay style action. This project is being realised with the pyGame-library.
+  This project in development (as of Nov. 2018) is a small RPG based on top-down tile graphics (à la Ultima). It features smooth player 
+  and monster movements on a non-scrolling map made of simple tile graphics. The combat system is hack&slay style action. This project is 
+  being realised with the pyGame-library.
